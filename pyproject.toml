@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "a1-reactor"
+version = "0.2.0"
+description = "A1 Reactor: video & image generation + regeneration pipeline (prototype)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name="A1 Reactor"}]
+dependencies = [
+  "pydantic>=2.6",
+  "fastapi>=0.111.0",
+  "uvicorn>=0.30.0",
+  "rich>=13.7",
+  "numpy>=1.26",
+  "Pillow>=10.0",
+  "httpx>=0.27.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

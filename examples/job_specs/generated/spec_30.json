@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic city street, tracking shot, neon night",
+  "seconds": 2.5,
+  "fps": 24,
+  "seed": 20030,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

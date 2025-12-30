@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, dolly-in, overcast",
+  "seconds": 2.0,
+  "fps": 30,
+  "seed": 20039,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

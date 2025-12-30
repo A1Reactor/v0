@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic sports car, drone, golden hour",
+  "seconds": 3.0,
+  "fps": 30,
+  "seed": 20038,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic sports car, tracking shot, overcast",
+  "seconds": 2.5,
+  "fps": 30,
+  "seed": 20034,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

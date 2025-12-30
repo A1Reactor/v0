@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, drone, softbox",
+  "seconds": 2.5,
+  "fps": 24,
+  "seed": 20033,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

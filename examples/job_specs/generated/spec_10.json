@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, drone, golden hour",
+  "seconds": 3.0,
+  "fps": 24,
+  "seed": 20010,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

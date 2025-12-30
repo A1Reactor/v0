@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic mountain trail, dolly-in, softbox",
+  "seconds": 2.0,
+  "fps": 30,
+  "seed": 20006,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

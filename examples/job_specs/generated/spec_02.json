@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic studio portrait, dolly-in, softbox",
+  "seconds": 1.5,
+  "fps": 30,
+  "seed": 20002,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

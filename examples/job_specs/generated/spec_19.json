@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic sports car, tracking shot, moody low-key",
+  "seconds": 2.5,
+  "fps": 24,
+  "seed": 20019,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

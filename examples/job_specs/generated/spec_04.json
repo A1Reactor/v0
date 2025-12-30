@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, tracking shot, softbox",
+  "seconds": 2.0,
+  "fps": 30,
+  "seed": 20004,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

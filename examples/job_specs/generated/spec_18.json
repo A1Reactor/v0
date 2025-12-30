@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, handheld, golden hour",
+  "seconds": 2.0,
+  "fps": 30,
+  "seed": 20018,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

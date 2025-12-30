@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic city street, locked-off, neon night",
+  "seconds": 2.5,
+  "fps": 24,
+  "seed": 20001,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

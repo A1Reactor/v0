@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic night market, steadycam, softbox",
+  "seconds": 3.0,
+  "fps": 30,
+  "seed": 20014,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

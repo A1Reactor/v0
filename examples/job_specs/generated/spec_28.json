@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic mountain trail, steadycam, golden hour",
+  "seconds": 1.5,
+  "fps": 24,
+  "seed": 20028,
+  "width": 768,
+  "height": 768,
+  "style_preset": "studio"
+}

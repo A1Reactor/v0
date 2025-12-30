@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic night market, dolly-in, golden hour",
+  "seconds": 1.5,
+  "fps": 30,
+  "seed": 20016,
+  "width": 768,
+  "height": 768,
+  "style_preset": "noir"
+}

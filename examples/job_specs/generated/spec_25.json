@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic studio portrait, steadycam, sunset backlight",
+  "seconds": 3.0,
+  "fps": 30,
+  "seed": 20025,
+  "width": 768,
+  "height": 768,
+  "style_preset": "noir"
+}

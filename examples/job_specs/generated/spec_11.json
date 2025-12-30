@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, dolly-in, neon night",
+  "seconds": 1.5,
+  "fps": 24,
+  "seed": 20011,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}

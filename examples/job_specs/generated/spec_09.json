@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic city street, handheld, moody low-key",
+  "seconds": 2.0,
+  "fps": 24,
+  "seed": 20009,
+  "width": 768,
+  "height": 768,
+  "style_preset": "anime"
+}

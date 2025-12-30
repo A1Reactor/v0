@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic desert road, locked-off, sunset backlight",
+  "seconds": 1.5,
+  "fps": 30,
+  "seed": 20040,
+  "width": 768,
+  "height": 768,
+  "style_preset": "anime"
+}

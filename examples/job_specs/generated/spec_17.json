@@ -1,0 +1,9 @@
+{
+  "prompt": "cinematic sports car, tracking shot, neon night",
+  "seconds": 2.5,
+  "fps": 30,
+  "seed": 20017,
+  "width": 768,
+  "height": 768,
+  "style_preset": "cinematic"
+}
